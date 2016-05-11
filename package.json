@@ -1,0 +1,23 @@
+{
+  "name": "device-inventory",
+  "version": "1.0.0",
+  "description": "Web Application for managing the inventory of the device lab at SapientNitro Boston",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "^1.5.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExplosiveHippo/DeviceInventory.git"
+  },
+  "author": "Lance Laughlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ExplosiveHippo/DeviceInventory/issues"
+  },
+  "homepage": "https://github.com/ExplosiveHippo/DeviceInventory#readme"
+}
